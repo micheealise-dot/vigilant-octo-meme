@@ -1,0 +1,2 @@
+# vigilant-octo-meme
+# This workflow will run tests using node and then publish a package to GitHub Packages when a release is created # For more information see: https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
